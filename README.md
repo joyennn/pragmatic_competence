@@ -1,1 +1,1 @@
-# Do Large Language Models Possess Pragmatic Competence? A Methodological Approach to Evaluating Scalar Implicature 
+# Do Large Language Models Possess Pragmatic Competence? A Methodological Approach
