@@ -156,7 +156,7 @@ def analyze_results(results_a, results_b):
 
     df_a.to_csv("result_a.csv", index=False)
     df_b.to_csv("result_b.csv", index=False)
-    print("✅ saved.")
+    print("✅ successfully saved.")
 
 
 
